@@ -31,7 +31,6 @@ div.dividing {
 h1 {
     text-align: center;
     display: inline-block;
-	font-family: "Segoe UI";
     padding: 1%;
     margin-top: 6%;
     margin-bottom: 6%;
@@ -132,7 +131,6 @@ div.blogpost{
 	background-color: #fefefe;
 	text-align: center; 
 	font-size: 120%;
-    font-family: "Segoe UI";
     width:900px;
     box-shadow: 0px 0px 8px #000; 
     color: #151515;
