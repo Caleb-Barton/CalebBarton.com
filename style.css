@@ -271,12 +271,15 @@ table, th, td {
         height: 640px
     }
 }*/
-@media screen and (max-width: 660px){
+@media screen and (max-width: 800px){
     div.button {
         visibility: visible;
         font-size: 3vw;
     }
     div.button p {
         width: 70%;
+    }
+    h1 {
+        font-size:2em;
     }
 }
